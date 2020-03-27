@@ -1,3 +1,7 @@
+/**
+ * something about routes.
+ * https://expressjs.com/zh-cn/starter/faq.html
+ */
 const express = require('express');
 
 const router = express.Router();
